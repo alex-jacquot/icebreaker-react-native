@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "icebreaker",
+    "slug": "icebreaker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/ice.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "icon": "./assets/ice.jpg"
+  }
+}

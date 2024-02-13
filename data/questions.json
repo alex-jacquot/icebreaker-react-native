@@ -1,0 +1,186 @@
+[
+  {
+    "question": "What's your favorite movie?",
+    "category": 1,
+    "tags": [
+      "movies",
+      "entertainment"
+    ]
+  },
+  {
+    "question": "If you could have dinner with any historical figure, who would it be?",
+    "category": 2,
+    "tags": [
+      "history",
+      "personal"
+    ]
+  },
+  {
+    "question": "What's your go-to karaoke song?",
+    "category": 1,
+    "tags": [
+      "music",
+      "entertainment"
+    ]
+  },
+  {
+    "question": "What's the most adventurous thing you've ever done?",
+    "category": 2,
+    "tags": [
+      "adventure",
+      "personal"
+    ]
+  },
+  {
+    "question": "If you could visit any place in the world, where would you go?",
+    "category": 1,
+    "tags": [
+      "travel",
+      "personal"
+    ]
+  },
+  {
+    "question": "What's your favorite board game or card game?",
+    "category": 3,
+    "tags": [
+      "games",
+      "entertainment"
+    ]
+  },
+  {
+    "question": "If you could have any superpower, what would it be?",
+    "category": 2,
+    "tags": [
+      "superpowers",
+      "personal"
+    ]
+  },
+  {
+    "question": "What's the last book you read?",
+    "category": 1,
+    "tags": [
+      "books",
+      "reading"
+    ]
+  },
+  {
+    "question": "What's your favorite type of cuisine?",
+    "category": 1,
+    "tags": [
+      "food",
+      "culinary"
+    ]
+  },
+  {
+    "question": "If you could time travel, would you go to the past or the future?",
+    "category": 2,
+    "tags": [
+      "time travel",
+      "personal"
+    ]
+  },
+  {
+    "question": "What's your favorite short group game?",
+    "category": 3,
+    "tags": [
+      "games",
+      "group"
+    ]
+  },
+  {
+    "question": "Can you name a quick icebreaker group activity you enjoy?",
+    "category": 3,
+    "tags": [
+      "games",
+      "group"
+    ]
+  },
+  {
+    "question": "If you were on a deserted island with a group, what game would you play?",
+    "category": 3,
+    "tags": [
+      "games",
+      "group"
+    ]
+  },
+  {
+    "question": "Never have I ever traveled outside my home country.",
+    "category": 3,
+    "tags": [
+      "neverhaveiever",
+      "travel"
+    ]
+  },
+  {
+    "question": "Would you rather have the ability to fly or be invisible?",
+    "category": 2,
+    "tags": [
+      "wouldyourather",
+      "superpowers"
+    ]
+  },
+  {
+    "question": "Never have I ever tried a food from a different culture.",
+    "category": 1,
+    "tags": [
+      "neverhaveiever",
+      "food"
+    ]
+  },
+  {
+    "question": "Would you rather live in the mountains or by the beach?",
+    "category": 2,
+    "tags": [
+      "wouldyourather",
+      "preference"
+    ]
+  },
+  {
+    "question": "Never have I ever sung karaoke in front of a crowd.",
+    "category": 1,
+    "tags": [
+      "neverhaveiever",
+      "karaoke"
+    ]
+  },
+  {
+    "question": "Would you rather have the ability to time travel to the past or the future?",
+    "category": 2,
+    "tags": [
+      "wouldyourather",
+      "timetravel"
+    ]
+  },
+  {
+    "question": "Never have I ever participated in a flash mob.",
+    "category": 3,
+    "tags": [
+      "neverhaveiever",
+      "flashmob"
+    ]
+  },
+  {
+    "question": "Would you rather be an expert in playing a musical instrument or a foreign language?",
+    "category": 1,
+    "tags": [
+      "wouldyourather",
+      "expertise"
+    ]
+  },
+  {
+    "question": "Never have I ever gone camping in the wilderness.",
+    "category": 2,
+    "tags": [
+      "neverhaveiever",
+      "camping"
+    ]
+  },
+  {
+    "question": "Would you rather have the ability to teleport or read minds?",
+    "category": 2,
+    "tags": [
+      "wouldyourather",
+      "superpowers"
+    ]
+  }
+]
